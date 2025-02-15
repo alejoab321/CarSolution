@@ -1,0 +1,6 @@
+@ApiRestWebCar_HostAddress = http://localhost:5199
+
+GET {{ApiRestWebCar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
